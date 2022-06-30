@@ -4,7 +4,7 @@ Iniciando repositorio sobre Modelos de Clasificación utilizando la librería Sc
 
 
 <p>
-<a href="https://scikit-learn.org/" rel="nofollow"><img src="https://www.pngegg.com/en/png-yokbj" align="right" width="130" style="max-width: 60%;"></a>
+<a href="https://scikit-learn.org/" rel="nofollow"><img src="https://img2.freepng.es/20190404/yf/kisspng-deep-learning-with-python-machine-learning-artific-seed-healthcare-5ca6457bb9f952.7961353315544006357618.jpg" align="right" width="130" style="max-width: 60%;"></a>
 </p>
 
 
@@ -18,13 +18,7 @@ En el repositorio se encuentran códigos de Python en Jupyter Notebook donde se 
 
 En cada uno de ellos se ajustaron los hyperparametros a los efectos de lograr las mejores métricas para el caso de estudio, es decir, encontrar el modelo que haga mínimo los falsos negativos (Clasificar un hongo como venenoso cuando en realidad no lo es).
 
-<p align="center">
-  <img 
-    width="450"
-    height="300"
-    src="https://i.pinimg.com/originals/ee/d8/fe/eed8fe4ad24e066b8b58a6f0e3771946.gif"
-  >
-</p>
+
 
 
 # Librerias
